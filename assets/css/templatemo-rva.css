@@ -5,7 +5,7 @@ TemplateMo - Finance Business
 https://templatemo.com/tm-545-finance-business
 
 */
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 body {
   font-family: 'Poppins', sans-serif;
   overflow-x: hidden;
@@ -350,7 +350,7 @@ header .navbar {
   min-width: 100%;
   position: relative;
   display: inline-block;
-  max-width: 100%;
+  max-width: none;
 }
 
 *,
@@ -385,10 +385,7 @@ header .navbar {
 	background-repeat: no-repeat;
 	height:95vh;
 }
-.responsive {
-  width: 100%;
-  height: auto;
-}
+
 .Modern-Slider .item-1 .img-fill {
 	background-image: url(../images/slide_01.jpg);
 }
