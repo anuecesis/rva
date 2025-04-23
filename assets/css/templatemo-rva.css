@@ -1299,7 +1299,7 @@ footer .contact-form button.filled-button:hover {
 		top: 10px;
 	}
 	.navbar .navbar-brand {
-		width: auto;
+		width: 100%;
 	}
 	.navbar:after {
 		display: none;
