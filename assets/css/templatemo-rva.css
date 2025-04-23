@@ -385,7 +385,10 @@ header .navbar {
 	background-repeat: no-repeat;
 	height:95vh;
 }
-
+.responsive {
+  width: 100%;
+  height: auto;
+}
 .Modern-Slider .item-1 .img-fill {
 	background-image: url(../images/slide_01.jpg);
 }
